@@ -7,5 +7,6 @@ export default defineConfig({
   },
   build: {
     outDir: 'docs', // ビルド成果物の出力先
-  }
+  },
+  base: '/old-digicams/', // リポジトリ名を指定
 });
