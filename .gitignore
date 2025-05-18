@@ -1,0 +1,10 @@
+# node_modules
+node_modules/
+
+# ビルド成果物
+dist/
+
+# OSやエディタ固有のファイル
+.DS_Store
+Thumbs.db
+.vscode/
